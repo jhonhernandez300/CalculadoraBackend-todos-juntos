@@ -102,12 +102,13 @@
               </div>
         </div>                
                
-       <div class="container">
+       <!-- <div class="container">
         <select formControlName="area">
            <option>Seleccione el area</option>
            <option *ngFor="let area of areas" value="area.id">{{area.nombre}}</option>
-        </select>
-     </div>          
+           <!-- <option *ngFor="let area of areas" [ngValue]="area.id">{{area.name}}</option> -->
+        <!-- </select>
+     </div>           --> -->
 
         <label for="fechaDeIngreso">Fecha de Ingreso </label>
         <input type="date" class="form-control" id="fechaDeIngreso" name="fechaDeIngreso" formControlName="fechaDeIngreso" >

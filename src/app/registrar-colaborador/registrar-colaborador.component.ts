@@ -7,6 +7,7 @@ import { DataService } from '../data/data.service';
 import { ReactiveFormsModule } from '@angular/forms';
 import { FormsModule } from '@angular/forms';
 import { AriaDescriber } from '@angular/cdk/a11y';
+import { timer } from 'rxjs';
 
 @Component({
   selector: 'app-registrar-colaborador',
@@ -35,16 +36,17 @@ export class RegistrarColaboradorComponent implements OnInit {
   //   nombre: null
   // };
 
-  areas: Area[] = [
-    {
-      id: 1,
-      nombre: "Contabilidad"
-    },
-    {
-      id: 2,
-      nombre: "Sistemas"
-    }
-  ];
+  // areas: Area[] = [
+  //   areas: Area[] = [
+  //   {
+  //     id: 1,
+  //     nombre: "Contabilidad"
+  //   },
+  //   {
+  //     id: 2,
+  //     nombre: "Sistemas"
+  //   }
+  // ];
 
   myForm: FormGroup;    
   submitted = false;    
@@ -61,7 +63,7 @@ export class RegistrarColaboradorComponent implements OnInit {
         email: new FormControl('', [Validators.minLength(4), Validators.maxLength(30)]),
         telefono: new FormControl('', [Validators.minLength(7), Validators.maxLength(15)]),        
         salario: new FormControl('', [Validators.required, Validators.minLength(2), Validators.maxLength(5)]),            
-        area: new FormControl(''),                   
+        // area: new FormControl(''),                   
         fechaDeIngreso: new FormControl('', [Validators.required]),
         sexo: new FormControl('', [Validators.required]),
         codigoInterno: new FormControl(this.colaborador.codigoInterno)
@@ -77,13 +79,25 @@ export class RegistrarColaboradorComponent implements OnInit {
       error => console.log('error ', error)
     );
 
-    this.dataService.obtenerAreas().subscribe(
-      //result => console.log('success ', result),
-      result => this.areas = result,
-      error => console.log('error ', error)
-    );
+    // this.dataService.obtenerAreas().subscribe(
+    //   //result => console.log('success ', result),
+    //   result => this.areas = result,
+    //   error => console.log('error ', error)
+    // );
 
-    this.iniciarFormulario();   
+    this.iniciarFormulario();       
+    // timer(50).subscribe(() => {
+    //   this.areas = [
+    //     {
+    //       id: 1,
+    //       nombre: 'Berge',
+    //     },
+    //     {
+    //       id: 1,
+    //       nombre: 'Seen',
+    //     },
+    //   ];
+    // });
   }
 
   onSelect(id: any): void{
@@ -97,10 +111,10 @@ export class RegistrarColaboradorComponent implements OnInit {
       alert ('Error')
       return      
     }
-    this.dataService.RegistrarColaborador(this.myForm.value).subscribe(
-                 result => console.log('success ', result),
-                 error => console.log('error ', error)
+    this.dataService.RegistrarColaborador(this.myForm.value).subscribe(              
+                 result => console.log('success ', result),                 
+                 error => console.log('error ', error)                 
              );    
-  }
-
+             
+  }  
 }
