@@ -17,7 +17,6 @@ namespace CalculadoraLaboralBackend.Controllers
     public class ColaboradorController : Controller
     {
         private readonly ApplicationDbContext _context;
-
        
         public ColaboradorController(ApplicationDbContext context)
         {
@@ -46,7 +45,25 @@ namespace CalculadoraLaboralBackend.Controllers
 
             return Ok(result);
         }
-        
+
+        // UPDATE: api/ActualizarColaborador        
+        [HttpPatch("ActualizarColaborador")]
+        public async Task<ActionResult<Colaborador>> ActualizarColaborador([FromBody] Colaborador colaborador)
+        {
+            var result = await _context.Colaborador.AsNoTracking().Where(i => i.Id == colaborador.Id).ToListAsync();
+
+            if (result.Count == 0)
+            {
+                return NotFound();
+            }
+
+            _context.Colaborador.Update(colaborador);
+            await _context.SaveChangesAsync();
+            //return colaborador;
+
+            return Ok(colaborador);
+        }
+
         // GET: api/GetCodigoInterno/      
         [HttpGet("GetCodigoInterno")]
         public string getCodigoInterno()

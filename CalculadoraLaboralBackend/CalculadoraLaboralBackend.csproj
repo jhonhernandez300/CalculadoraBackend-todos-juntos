@@ -16,6 +16,8 @@
     <Compile Include="Migrations\20210728015421_inicio 7.Designer.cs" />
     <Compile Include="Migrations\20211014051306_inicio.cs" />
     <Compile Include="Migrations\20211014051306_inicio.Designer.cs" />
+    <Compile Include="Migrations\20211016232019_Without foreign key.cs" />
+    <Compile Include="Migrations\20211016232019_Without foreign key.Designer.cs" />
     <Compile Include="Migrations\ApplicationDbContextModelSnapshot.cs" />
   </ItemGroup>
 

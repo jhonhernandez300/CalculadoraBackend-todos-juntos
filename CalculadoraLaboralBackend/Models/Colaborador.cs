@@ -36,10 +36,7 @@ namespace CalculadoraLaboralBackend.Models
 
 
         [Required(ErrorMessage = "Campo requerido")]
-        public int Salario { get; set; }
-
-        [ForeignKey("Fk_Area")]
-        public string Fk_Area { get; set; }        
+        public int Salario { get; set; }           
 
         public DateTime FechaDeIngreso { get; set; }
 
