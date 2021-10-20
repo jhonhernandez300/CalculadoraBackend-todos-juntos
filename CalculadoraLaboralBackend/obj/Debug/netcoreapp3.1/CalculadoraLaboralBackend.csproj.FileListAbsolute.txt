@@ -1,0 +1,316 @@
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.exe
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.deps.json
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.json
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadoraLaboralBackend.styles.css
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CopyComplete
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CalculadoraLaboralBackend\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.exe
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.deps.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.dev.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfo.cs
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.xml
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadoraLaboralBackend.styles.css
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CopyComplete
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.genruntimeconfig.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.exe
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.deps.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.dev.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfo.cs
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.xml
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadoraLaboralBackend.styles.css
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CopyComplete
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.genruntimeconfig.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.exe
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.deps.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.dev.json
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfo.cs
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.xml
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadoraLaboralBackend.styles.css
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CopyComplete
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\PC\Documents\Punto net Core codigo de ejemplo\4 CalculadoraBackend-todos-juntos\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.genruntimeconfig.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.exe
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.deps.json
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.json
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.runtimeconfig.dev.json
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.AssemblyReference.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfoInputs.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.AssemblyInfo.cs
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.Manifest.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\staticwebassets\CalculadoraLaboralBackend.StaticWebAssets.xml
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadoraLaboralBackend.styles.css
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.RazorTargetAssemblyInfo.cache
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.dll
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.pdb
+C:\Users\jhernandez\Documents\Angular codigo de ejemplo\CalculadoraBackend-todos-juntos-master\CalculadoraLaboralBackend\obj\Debug\netcoreapp3.1\CalculadoraLaboralBackend.genruntimeconfig.cache
